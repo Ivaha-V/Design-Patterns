@@ -8,7 +8,7 @@ A collection of design patterns written in Swift.
 2. Behavioral
     * _List is empty_
 3. Fundamental
-    * _List is empty_
+    * [Delegate](https://github.com/Ivaha-V/Design-Patterns/blob/main/Fundamental/Delegate.playground/Contents.swift)
 
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
