@@ -29,12 +29,12 @@ class Client {
         if singletonInstanceOne === singletonInstanceTwo {
             print("Instances are equal. Singleton works :)")
         } else {
-            print(print("Instances aren't equal. Singleton does'nt wor :("))
+            print("Instances aren't equal. Singleton doesn't work :(")
         }
     }
 }
 
-class SingletonTest: XCTestCase {
+class SingletonTests: XCTestCase {
     
     func testSingleton() {
         Client().compareSingletonObjects()
