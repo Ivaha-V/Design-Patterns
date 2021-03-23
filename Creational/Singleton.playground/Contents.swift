@@ -40,3 +40,5 @@ class SingletonTests: XCTestCase {
         Client().compareSingletonObjects()
     }
 }
+
+SingletonTests.defaultTestSuite.run()
