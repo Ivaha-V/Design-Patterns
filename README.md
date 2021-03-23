@@ -4,7 +4,7 @@ A collection of design patterns written in Swift.
 
 ## Existing design patterns in this repository
 1. Creational
-    * [Singleton](https://github.com/iVitalia/Design-Patterns/blob/main/Singleton.playground/Contents.swift)
+    * [Singleton](https://github.com/Ivaha-V/Design-Patterns/blob/main/Creational/Singleton.playground/Contents.swift)
 2. Behavioral
     * _List is empty_
 3. Fundamental
