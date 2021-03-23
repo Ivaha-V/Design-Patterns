@@ -4,11 +4,12 @@ A collection of design patterns written in Swift.
 
 ## Existing design patterns in this repository
 1. Creational
-    * [Singleton](https://github.com/Ivaha-V/Design-Patterns/blob/main/Creational/Singleton.playground/Contents.swift)
+   * [Abstract Factory](https://github.com/Ivaha-V/Design-Patterns/blob/main/Creational/AbstractFactory.playground/Contents.swift)
+   * [Singleton](https://github.com/Ivaha-V/Design-Patterns/blob/main/Creational/Singleton.playground/Contents.swift)
 2. Behavioral
-    * _List is empty_
+   * _List is empty_
 3. Fundamental
-    * [Delegate](https://github.com/Ivaha-V/Design-Patterns/blob/main/Fundamental/Delegate.playground/Contents.swift)
+   * [Delegate](https://github.com/Ivaha-V/Design-Patterns/blob/main/Fundamental/Delegate.playground/Contents.swift)
 
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
