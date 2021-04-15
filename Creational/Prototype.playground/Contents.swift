@@ -20,7 +20,6 @@ class Person: Copying {
 }
 
 /// FIRST variant - create own protocol
-
 protocol Copying {
     init(_ prototype: Self)
 }
