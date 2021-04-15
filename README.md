@@ -5,6 +5,7 @@ A collection of design patterns written in Swift.
 ## Existing design patterns in this repository
 1. Creational
    * [Abstract Factory](https://github.com/Ivaha-V/Design-Patterns/blob/main/Creational/AbstractFactory.playground/Contents.swift)
+   * [Prototype](https://github.com/Vitalii-Ivashchenko/Design-Patterns/blob/main/Creational/Prototype.playground/Contents.swift)
    * [Singleton](https://github.com/Ivaha-V/Design-Patterns/blob/main/Creational/Singleton.playground/Contents.swift)
    * [Template Method](https://github.com/Vitalii-Ivashchenko/Design-Patterns/blob/main/Creational/TemplateMethod.playground/Contents.swift)
 2. Behavioral
